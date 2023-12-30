@@ -101,3 +101,25 @@ In this milestone, the product detail page was populated.
 
 Below is an image that shows how the report page looks overall: 
 ![Product Details Report](image-6.png)
+
+### Milestone Eight
+In this milestone, the stores map, drillthrough and custom tooltip pages were created. 
+
+1. The stores map was generated using the geography hierarchy to allow for drillthrough. The filtering was setup to ensure that a "select all" option was available. The tooltip for this map was set to the custom tooltip page. 
+
+![Alt text](image-7.png)  ![Alt text](image-8.png)  ![Alt text](image-9.png)
+
+
+2. The stores drillthrough page was setup to show the profit and revenue year-to-date compared to a target increase of 20% on the previous year as guages. There is a column chart to show the total orders per category, and a table shhowing the profit ytd, orders, and revenue of the top five products. This drillthrough page displays the region and country of the store being viewed. 
+
+This is how the drillthrough was setup: 
+
+![Alt text](image-11.png)
+
+This is how the drillthrough page looks: 
+
+![Alt text](image-12.png)
+
+3. The custom tooltip page shows the profit guage for the store when hovered over on the map. Below is an example of how this looks:
+
+![Alt text](image-13.png)
