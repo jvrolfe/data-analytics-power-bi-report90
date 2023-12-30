@@ -123,3 +123,14 @@ This is how the drillthrough page looks:
 3. The custom tooltip page shows the profit guage for the store when hovered over on the map. Below is an example of how this looks:
 
 ![Alt text](image-13.png)
+
+
+### Milestone Nine
+In this milestone, the crossfiltering and navigation between each page in the report were setup. Below is an example of the navigation bar and how the appearance of the button changes when it is hovered over:
+
+
+![Navigation bar - no hover](image-14.png)  ![Hover](image-15.png)
+
+Each of the navigation buttons takes the user to the associated page in the report. 
+
+For final touches, any of the blank cards that were previously on a report page but were unused were deleted to declutter the visuals. 
