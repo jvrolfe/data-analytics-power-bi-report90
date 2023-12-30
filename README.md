@@ -73,4 +73,31 @@ In this milestone, the customer detail page was populated.
 
 Below is an image that shows how the report page looks overall: 
 
-![Alt text](image-3.png)
+![Customer Detials Report]](image-4.png)
+
+### Milestone Six
+In this milestone, the executive summary page was populated. 
+
+1. Three card visuals were created to show the total revenue, total orders and total profit. 
+2. A line chart was created showing the revenue over time. A date hierarchy was used to allow for drill down from year, to quarter, to month. 
+3. A donut charts showing the total revenue by country and store type were created. 
+4. Orders by category is shown through a bar chart. 
+5. Three KPI's were created to show the performance of the current quarter compared to the previous quarter. The target for orders, revenue and proft are 5% growth compared to the previous quarter. 
+
+
+Below is an image that shows how the report page looks overall: 
+![Executive Summary Report](image-5.png)
+
+
+### Milestone Seven
+In this milestone, the product detail page was populated. 
+
+1. Three guage visuals were created to show the currernt quarter performance compared to the target 10% growth on teh previous quarter. The callout value is red when the current quarter performance does not meet the 10% growth target. 
+2. Revenue by product category is shown through an area chart with the date along the x axis, and total revenue on the y axis. The areas are coloured by product category. 
+3. A table of the top ten products by revenue was created. 
+4. Quanty sold vs profit per item was shown through a scatter plot. Again, each point was coloured by product category to show the most profitable category as well as the most profitable items.
+5. Finally, a slicer toolbar was created. This allows the slicers to be hidden and therefore de-clutters the visual. To create this toolbar, it was first setup using shapes and group the slicers on top of the shape. A back button was also grouped with these. Then, bookmarks were used to show/hide the slicer toolbar. 
+
+
+Below is an image that shows how the report page looks overall: 
+![Product Details Report](image-6.png)
