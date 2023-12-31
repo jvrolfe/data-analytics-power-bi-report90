@@ -1,6 +1,6 @@
 # Data Analytics in Power BI Report
 
-In this project, I have been tasked to create a Quartely report for a (theoretical) medium-sized international retailer. The end goal for the report is to be a high-level business summary for C-suite executives, and give insights into business metrics to demonstrate current performance. 
+In this project, I have been tasked to create a Quartely report for a (theoretical) medium-sized international retailer. The end goal for the report is to be a high-level business summary for C-suite executives, and give insights into business metrics to demonstrate current performance. Throughout the project, I was able to learn a lot about the functionality of PowerBI and how to construct DAX functions to create informative visuals. I was also able to learn more about querying an SQL database. 
 
 ## Requirements
 
