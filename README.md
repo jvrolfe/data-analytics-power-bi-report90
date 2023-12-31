@@ -2,6 +2,13 @@
 
 In this project, I have been tasked to create a Quartely report for a (theoretical) medium-sized international retailer. The end goal for the report is to be a high-level business summary for C-suite executives, and give insights into business metrics to demonstrate current performance. 
 
+## Requirements
+
+- Fork this repo
+- Clone this repo
+- PowerBI
+- SQL Tools in VSCode or similar
+
 
 ## Project Milestones
 
@@ -138,3 +145,16 @@ For final touches, any of the blank cards that were previously on a report page 
 
 ### Milestone Ten 
 In this milestone, a connection to the database containing the information was genereated. Several queries were run using SQL. These files are labelled question 1 - 5 and can be found in this repo in the SQL Queries folder. In this folder, there are csv files that contain the name of the tables and the columns within each table for reference. 
+
+
+## Installation 
+
+```
+$ git clone https://github.com/jvrolfe/data-analytics-power-bi-report90.git
+```
+
+## Lisence
+
+```
+None
+```
