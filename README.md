@@ -134,3 +134,7 @@ In this milestone, the crossfiltering and navigation between each page in the re
 Each of the navigation buttons takes the user to the associated page in the report. 
 
 For final touches, any of the blank cards that were previously on a report page but were unused were deleted to declutter the visuals. 
+
+
+### Milestone Ten 
+In this milestone, a connection to the database containing the information was genereated. Several queries were run using SQL. These files are labelled question 1 - 5 and can be found in this repo in the SQL Queries folder. In this folder, there are csv files that contain the name of the tables and the columns within each table for reference. 
